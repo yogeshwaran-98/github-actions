@@ -8,5 +8,5 @@ jobs:
      runs-on: ubuntu-latest
 
      steps:
-       -name: print success
-        run: echo "Success"
+       - name: print success
+         run: echo "Success"
